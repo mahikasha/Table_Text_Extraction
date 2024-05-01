@@ -1,0 +1,98 @@
+Time/Day
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+07:00-08:00
+08:00 - 09:00
+ML
+DBMS
+MAE
+SIP
+of
+SIP
+SIP
+(VKU)
+(RCH)
+(VAR)
+[KRA]
+[SGO]
+(AMUL
+[KRA]
+(SGO)
+BI
+B2
+MAE
+B1
+B2
+ML
+B2
+SM
+09:00-10:00
+CL 601
+CL 602
+(VAR)
+CL 601
+CU 602
+(VKU)
+CL 601
+(SSH)
+IT TUT
+IT TUT
+OT
+(SGO)
+SIP
+OT
+(SGO)
+10:00-11:00
+DBMS
+BREAK
+ML
+SM
+(SGO)
+B2
+[AMU]
+BI
+(RCH)
+(VKU)
+[SGO]
+[SSH]
+CL 601
+CR 308
+BI
+B2
+B)
+B2
+CL 602
+CL 601
+CL 602
+CL 602
+SM
+DBMS
+IT
+11:00 12:00
+(SSH)
+(RCI)
+[SGO]
+SIP
+12.00-1:00
+BREAK
+BREAK
+[AMU]
+SM
+(SSH)
+BI
+ML
+IT
+CL 804
+01:00 02:00
+[VKU]
+(SGO)
+DBMS
+ML
+02:00 03:00
+[RCH]
+[VKU]
+03:00 - 04:00
