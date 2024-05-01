@@ -3,7 +3,9 @@ A project done for the course Signals and Image Processing under Dr. Ami Munshi
 
 Team members
 MAHIKA SHAH I038
+
 MANN AGARWAL I039 Github: mann2705
+
 NAMAN CHHAPARIA I040 Github: NamanChh
 
 # Abstract
